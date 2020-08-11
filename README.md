@@ -1,5 +1,5 @@
 # robofriends
-##rodelopiana.github.io/robofriends
+rodelopiana.github.io/robofriends
 
 Tutorial for udemy course - React
 To run the project:
